@@ -23,7 +23,7 @@
   <tr>
     <td>분류</td>
     <td colspan="2"><b>개발자 철학</b></td>
-    <td>사용자 경험(UX)</td>
+    <td><b>사용자 경험(UX)</b></td>
   </tr>
   <tr>
     <td>제목</td>
